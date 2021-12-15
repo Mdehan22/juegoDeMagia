@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+main{
+    margin: 50px;
+    padding: 50px;
+    height: 100vh;
+    background-color: aquamarine;
+}
+nav{
+    margin: 50px;
+    height: 75%;
+    background-image: url(../img/portada.jpg);
+}
+div{
+    height: 50%;
+    text-align: center;
+}
+.centrar{
+    text-align: center;
+}
+  
+.puntito{
+    list-style:none;
+}
